@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Triangle
     attr_reader :a, :b, :c
     def initialize(a, b, c)
@@ -29,3 +30,5 @@ class Triangle
     end
   
   end
+=======
+>>>>>>> 6289c7eb784e7b79f51c6edf5540efc88a7eff2e
